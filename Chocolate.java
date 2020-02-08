@@ -1,4 +1,4 @@
-package com.rahull.NewYearGift;
+package com.rahul.NewYearGift;
 
 public class Chocolate extends GiftDetails{
 	void details(int quantity,int item) {
